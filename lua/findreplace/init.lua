@@ -7,9 +7,9 @@ local M = {}
 --- @type FindReplaceConfig
 local default_config = {
 	keymaps = {
-		search_replace = "<leader>rs",
-		word_replace = "<leader>rw",
-		visual_replace = "<leader>rv",
+		search_replace = "<leader>ss",
+		word_replace = "<leader>sw",
+		visual_replace = "<leader>sv",
 	},
 }
 
